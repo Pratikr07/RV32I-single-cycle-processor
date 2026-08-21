@@ -1,0 +1,24 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+
+# Vivado generated folders
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.gen/
+
+# Generated simulation files
+*.vcd
+
+# IDE / OS files
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
